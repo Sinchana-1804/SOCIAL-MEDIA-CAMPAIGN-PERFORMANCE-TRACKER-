@@ -1,4 +1,3 @@
-# FUTURE_DS_02
 SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER
 Marketing Campaign Performance Dashboard
 Overview
